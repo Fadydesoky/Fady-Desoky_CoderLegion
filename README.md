@@ -8,7 +8,9 @@ This repository was created to share my technical articles were published throug
 3- Sharing my latest write-up on Coderlegion, check it out! 
 https://coderlegion.com/9473/i-no-longer-see-software-as-just-software
 
-4- Sharing my latest write-up on Coderlegion, check it out! https://coderlegion.com/9704/before-optimizing-code-optimize-the-process
+4- https://coderlegion.com/9704/before-optimizing-code-optimize-the-process
+
+5- Sharing my latest write-up on Coderlegion, check it out! https://coderlegion.com/10284/modern-systems-dont-fix-missing-history
 
 ### 🌐 Join Me on CoderLegion
 
