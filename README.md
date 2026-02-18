@@ -12,6 +12,15 @@ https://coderlegion.com/9473/i-no-longer-see-software-as-just-software
 
 5- Sharing my latest write-up on Coderlegion, check it out! https://coderlegion.com/10284/modern-systems-dont-fix-missing-history
 
+🚀 Check out my CoderLegion profile & latest post!
+
+🏆 Points: 1.6k | 🎱 Badges: 16 | 👥 Followers: 99 | 📄 Posts: 7
+
+Latest post: "Data Is Not a Department — It’s a Decision Architecture"
+Read it here: https://coderlegion.com/11594/data-is-not-a-department-its-a-decision-architecture
+
+See my profile: https://coderlegion.com/user/Fady-Desoky-Saeed-Abdelaziz
+
 ### 🌐 Join Me on CoderLegion
 
 [![CoderLegion](https://coderlegion.com/cl_badge_logo1.png)](https://coderlegion.com/user/Fady-Desoky-Saeed-Abdelaziz) Check out my articles and community posts on [CoderLegion!](https://coderlegion.com/user/Fady-Desoky-Saeed-Abdelaziz)
